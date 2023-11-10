@@ -1,0 +1,11 @@
+<suite name="TestSuite" >
+<test name="Test" thread-count="3" >
+<classes>
+<class name="Script_Design_01.TestNGDemo2">
+<methods>
+<include name="mobile.*" />
+</methods>
+</class>
+</classes>
+</test>
+</suite>

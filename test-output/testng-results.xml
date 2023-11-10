@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-21T22:23:07 IST" name="Default suite" finished-at="2023-10-21T22:23:07 IST" duration-ms="49">
+    <groups>
+    </groups>
+    <test started-at="2023-10-21T22:23:07 IST" name="Default test" finished-at="2023-10-21T22:23:07 IST" duration-ms="49">
+      <class name="Test_Reading_Data.DataProvider10">
+        <test-method signature="sampleloginTest(java.lang.String,java.lang.String)[pri:0, instance:Test_Reading_Data.DataProvider10@3bb9a3ff]" started-at="2023-10-21T22:23:07 IST" name="sampleloginTest" data-provider="datasupplier1" finished-at="2023-10-21T22:23:07 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vilas]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleloginTest -->
+        <test-method signature="sampleloginTest(java.lang.String,java.lang.String)[pri:0, instance:Test_Reading_Data.DataProvider10@3bb9a3ff]" started-at="2023-10-21T22:23:07 IST" name="sampleloginTest" data-provider="datasupplier1" finished-at="2023-10-21T22:23:07 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleloginTest -->
+        <test-method signature="sampleloginTest(java.lang.String,java.lang.String)[pri:0, instance:Test_Reading_Data.DataProvider10@3bb9a3ff]" started-at="2023-10-21T22:23:07 IST" name="sampleloginTest" data-provider="datasupplier1" finished-at="2023-10-21T22:23:07 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ajay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleloginTest -->
+      </class> <!-- Test_Reading_Data.DataProvider10 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
